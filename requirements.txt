@@ -1,0 +1,12 @@
+pyside6
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-openai
+langchain-google-genai
+langchain-classic
+langchain-text-splitters
+pypdf
+python-docx
+faiss-cpu
